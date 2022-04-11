@@ -1,6 +1,6 @@
 # leetcode-javascript
 
-![](https://img.shields.io/badge/language-javaScript-brightgreen)![](https://img.shields.io/badge/keyword-leetcode-important)![](https://img.shields.io/badge/keyword-data%20structure-informational)![](https://img.shields.io/badge/license-MIT-ff69b4)
+![](https://img.shields.io/badge/language-javaScript-brightgreen) ![](https://img.shields.io/badge/keyword-leetcode-important) ![](https://img.shields.io/badge/keyword-data%20structure-informational) ![](https://img.shields.io/badge/license-MIT-ff69b4)
 
 这个repository包括了：
 
