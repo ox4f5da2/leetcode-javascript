@@ -6,26 +6,26 @@
 
 - JavaScript封装数据结构：
   - [二叉搜索树](./src/binaryTree.js)
-  - [字典]('./src/dictionary.js')
-  - [哈希表]('./src/hashMap.js')
-  - [单向链表]('./src/linkedList.js')
-  - [集合]('./src/set.js')
-  - [栈]('./src/stack.js')
-  - [最小栈]('./src/minStack.js')
-  - [队列]('./src/queue.js')
-  - [优先队列]('./src/priorityQueue.js')
-  - [使用示例]('./example')
-- [排序算法]('./src/sort.js')：
+  - [字典](./src/dictionary.js)
+  - [哈希表](./src/hashMap.js)
+  - [单向链表](./src/linkedList.js)
+  - [集合](./src/set.js)
+  - [栈](./src/stack.js)
+  - [最小栈](./src/minStack.js)
+  - [队列](./src/queue.js)
+  - [优先队列](./src/priorityQueue.js)
+  - [使用示例](./example)
+- [排序算法](./src/sort.js)：
   - 冒泡排序
   - 选择排序
   - 插入排序
   - 希尔排序
   - 快速排序
-- [leetCode的Hot 100算法题]('./leetcode/Hot100')(部分，还没写完，会继续更新)
-- [leetCode辅助函数]('./utils')的封装
+- [leetCode的Hot 100算法题](./leetcode/Hot100)(部分，还没写完，会继续更新)
+- [leetCode辅助函数](./utils)的封装
   - 数组转链表以及链表的打印
   - 数组转二叉树以及二叉树的打印
-- [相关书籍]('./PDF')
+- [相关书籍](./PDF)
   - 数据结构与算法JavaScript描述
   - 大话设计模式
   - 大话数据结构
