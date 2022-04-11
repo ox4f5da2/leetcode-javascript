@@ -5,7 +5,7 @@
 这个repository包括了：
 
 - JavaScript封装数据结构：
-  - [二叉搜索树](./binaryTree.js)
+  - [二叉搜索树](./src/binaryTree.js)
   - [字典]('./src/dictionary.js')
   - [哈希表]('./src/hashMap.js')
   - [单向链表]('./src/linkedList.js')
