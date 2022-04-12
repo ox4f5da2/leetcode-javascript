@@ -577,6 +577,7 @@ list2.toString();
 | logTree(initDepth = 0)   | 打印树结构         |
 | inOrderTraversal()       | 中序遍历           |
 | preOrderTraversal()      | 先序遍历           |
+| postOrderTraversal()     | 后序遍历           |
 
 #### 2.3 arrayToBinaryTree
 

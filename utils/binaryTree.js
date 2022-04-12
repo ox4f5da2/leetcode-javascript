@@ -63,6 +63,20 @@ export default class BinaryTreeHelper {
       inOrder(root.right);
     }
   }
+
+  // 后序遍历
+  postOrderTraversal() {
+    let result = [];
+    inOrder(this.root);
+    console.log(result.join(" --> "));
+    function inOrder(root) {
+      if (root === null) return;
+      inOrder(root.left);
+      inOrder(root.right);
+      result.push(root.val);
+    }
+  }
+
   // 打印树结构
   logTree(initDepth = 0) {
     let result = [];
